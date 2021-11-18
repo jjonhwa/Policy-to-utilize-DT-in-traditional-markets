@@ -27,6 +27,7 @@
 ![전통시장2](https://user-images.githubusercontent.com/53552847/142359351-021fea0d-da10-4d71-b241-9bdeddb17e8b.jpg)
 - 3개의 군집 가운데 가장 위기 시장을 시각화 한 후 이를 바탕으로 최종 군집 선정
 
+## Item
 ### DTC 최적 입지 선정
 - 공공시설을 DTC 후보군으로 선정 
 - 선정된 공공시설 후보군 중 가장 좋은 입지를 선정하는 방법인 P-Median 알고리즘을 활용
@@ -49,7 +50,7 @@
 - 소비자들의 편의성 확대
 - 전통시장의 디지털 전환에 대한 정부 정책의 가이드라인 제공
 
-### Contributor
+## Contributor
 - [jjonhwa](https://github.com/jjonhwa)
 - [Brady Kim](https://github.com/fenzhantw)
 - [wjdghwo](https://github.com/wjdghwo)
