@@ -5,6 +5,7 @@
 
 ## 분석 데이터 선정
 ![전통시장](https://user-images.githubusercontent.com/53552847/142356042-f6e05621-fa81-435a-be3f-464f9ab7a453.jpg)
+- 위의 데이터와 더불어, 통계청에서 제공하는 데이터를 추가적으로 활용(유동인구 Dataset)하였으며, 이는 공개 불가하며 이로 인한 PCA 과정에서 최종 발표자료와의 차이가 있음을 참고하자.
 
 ## Data Preprocessing
 - 좌표계 변환
