@@ -1,5 +1,6 @@
 # 전통시장 DT 활용 방안
-🥈 2021년 통계데이터 분석, 활용대회 2등
+🥈 **2021년 통계데이터 분석, 활용대회 2등**
+
 DTC를 활용하여 전통시장을 살리기 위한 정부 정책 제시  
 [보도자료](http://kostat.go.kr/assist/synap/preview/skin/miri.html?fn=d6554175255502130204631&rs=/assist/synap/preview)
 
