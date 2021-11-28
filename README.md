@@ -71,7 +71,7 @@ DTC를 활용하여 전통시장을 살리기 위한 정부 정책 제시
 |   +- pmedian.ipynb
 |   +- requirements.txt
 +- wordcloud
-|   +- 작성예쩡
+|   +- 작성예정
 +- preprocess
 |   +- preprocess.ipynb
 |   +- pca.ipynb
