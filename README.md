@@ -5,7 +5,7 @@ DTC를 활용하여 전통시장을 살리기 위한 정부 정책 제시
 [보도자료](http://kostat.go.kr/assist/synap/preview/skin/miri.html?fn=d6554175255502130204631&rs=/assist/synap/preview)
 
 ## Core Idea ([Presentation](https://github.com/jjonhwa/Policy-to-utilize-DT-in-traditional-markets/blob/main/%EB%84%A5%EC%8A%A4%ED%8A%B8%EB%85%B8%EB%A9%80%20%EC%8B%9C%EB%8C%80%20-%20%EC%A0%84%ED%86%B5%EC%8B%9C%EC%9E%A5%20DT%20%ED%99%9C%EC%9A%A9%20%EB%B0%A9%EC%95%88.pdf))
-- [Heuristic P-Median을 활용한 입지선정]](https://github.com/jjonhwa/Policy-to-utilize-DT-in-traditional-markets/tree/main/pmedian)
+- [Heuristic P-Median을 활용한 입지선정](https://github.com/jjonhwa/Policy-to-utilize-DT-in-traditional-markets/tree/main/pmedian)
 - WordCloud를 활용한 상품 추천
 - 통계적 분석 (Clustering, PCA, Data Normalization)
 
