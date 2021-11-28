@@ -6,13 +6,12 @@
 
 ## Corriculum
 
-## Implement
-### Install Requirements
+## Install Requirements
 ```python
 pip install -r requirements.txt
 ```
 
-### 
+## Implement
 ```python
 python pmedian.py
 ```
