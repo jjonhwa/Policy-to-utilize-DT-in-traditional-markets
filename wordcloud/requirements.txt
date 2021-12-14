@@ -1,0 +1,3 @@
+wordcloud==1.8.0
+matplotlib==3.3.2
+krwordrank==1.0.3
